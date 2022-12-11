@@ -1,3 +1,4 @@
+<?php include 'portal-config.php'?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,15 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ben's Tile 2.0</title>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
-<body>
 <!--NAVBAR-->
 <nav class="navbar navbar-expand-lg navbar-dark menu shadow fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="https://samsmolen.com/benstile/public/index.html">
+      <a class="navbar-brand" href="#">
         <img src="images/temp-logo2.png" alt="logo image">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,22 +23,22 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="https://samsmolen.com/benstile/public/index.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="https://samsmolen.com/benstile2.0/index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Services</a>
+            <a class="nav-link" href="#services">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Testimonials</a>
+            <a class="nav-link" href="#testimonials">Testimonials</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">FAQ</a>
+            <a class="nav-link" href="#faq">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Portfolio</a>
+            <a class="nav-link" href="#portfolio">Portfolio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
         <button type="button" class="rounded-pill btn-rounded">+1 2068492789
@@ -48,69 +49,24 @@
       </div>
     </div>
   </nav>
-<div class="contact__heading">
-    <div class="contact__heading--container">
-    </div>
-</div>
+  <?php
+        /*
+         * Below are 2 different forms to be re-used       
+         * 
+         * Only use one at a time, comment out the other!       
+         *
+         */
 
-  <section id="contact" class="get-started">
-    <div class="container">
-      <div class="row text-center">
-        <h1 class="display-3 fw-bold text-capitalize">Get Started</h1>
-        <div class="heading-line"></div>
-        <p class="lh-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis recusandae tempore in.
-        </p>
-      </div>
-      <!--START CTA CONTENT-->
-      <div class="row text-white">
-        <div class="col-12 col-lg-6 gradient shadow p-3">
-          <div class="cta-info w-100">
-           <h4 class="display-4">Contact Us</h4>
-           <p class="lh-lg mt-5">206-849-2789
-            <span>
-              <i class="fas fa-phone-alt p-3"></i>
-          </span>
-           </p>
-           <p class="lh-lg">bensmolen@gmail.com
-            <span>
-              <i class="fa-solid fa-envelope white p-3"></i>
-            </span>
-           </p>
-           <p class="lh-lg">Mon-Fri 9:00am - 5:00pm
-            <span>
-              <i class="fa-solid fa-clock white p-3"></i>
-            </span>
-           </p>
-           <hr class="white">
-           <p class="lh-lg">Everett, WA 98201
-            <span>
-              <i class="fa-sharp fa-solid fa-location-dot white p-3"></i>
-            </span>
-           </p>
-          </div>
-        </div>
-        <div class="col-12 col-lg-6 bg-white shadow p-3">
-        <div class="form w-100 pb-2">
-          <h4 class="display-3--title mb-5">Start your project today!</h4>
-          <form action="#" class="row">
-            <div class="col-lg-6 col-md-6 mb-3"><input type="text" placeholder="First Name" id="inputFirstName" class="shadow form-control form-control-lg"></div>
-            <div class="col-lg-6 col-md-6 mb-3"><input type="text" placeholder="Last Name" id="inputLastName" class="shadow form-control form-control-lg"></div>
-            <div class="col-lg-12 mb-3"><input type="email" placeholder="email Address" id="inputEmail" class="shadow form-control form-control-lg"></div>
-            <div class="col-lg-12 mb-3"><textarea placeholder="Message" name="message" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
-            </div>
-            <div class="text-center d-grid mt-1">
-              <button type="button" class="btn btn-primary rounded-pill pt-3 pb-3">
-                Submit
-                <i class="fas fa-paper-plane"></i>
-              </button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-  </section>
+        include 'includes/contact_include.php'; #site keys & code here
+    
+        $toAddress = "sam.smolen@icloud.com";  //place your/your client's email address here
+        $toName = "Sam Smolen"; //place your client's name here
+        $website = "IT162 Portal - Sam Smolen";  //place NAME of your client's website
+
+        echo loadContact('simple.php');#demonstrates a simple contact form
+        //echo loadContact('multiple.php');#demonstrates multiple form elements
+
+	?>
 <!-- START FOOTER SECTION -->
 <footer class="footer">
   <div class="container">

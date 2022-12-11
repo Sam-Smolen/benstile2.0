@@ -1,0 +1,51 @@
+@use '../custom' as *;
+@use '../components/mixins'as *;
+
+.get-started {
+    padding: 4rem 0;
+    background-color: $gray-200;
+}
+
+.cta-info {
+    padding: 3rem;
+    margin: 1rem 0;
+}
+
+//FORM CONTENT
+
+.form {
+    padding: 3rem;
+
+    button {
+        border: none;
+        color: $white;
+
+        a {
+            color: $white;
+            text-decoration: none;
+            text-transform: capitalize;
+        }
+    }
+}
+
+.contact__heading {
+    padding: 60px 60px;
+    color: $dark;
+    @include gradient;
+ }
+
+ .contact__container--heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+ }
+
+ .contact__container h1 {
+    font-size: 3rem;
+    color: $dark;
+    margin-bottom: 32px;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+
+ }

@@ -31,7 +31,7 @@
       <div class="col-12 col-lg-6 gradient shadow p-3">
         <div class="cta-info w-100">
          <h4 class="display-4">Contact Us</h4>
-         <p class="lh-lg mt-5">206-849-2789
+         <p class="lh-lg mt-5 text-white">206-849-2789
           <span>
             <i class="fas fa-phone-alt p-3"></i>
         </span>

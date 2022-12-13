@@ -327,7 +327,7 @@ class MyAutoLoader
 			include $path;
 			return; //go no farther
 		}else{
-            echo 'include file not found!';
+            echo 'include file not found!' . $path;
             die;
         }
     }#end NamespaceLoader()

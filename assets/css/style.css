@@ -10777,11 +10777,6 @@ textarea.form-control-lg {
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
   background-color: #fff;
 }
-@media (max-width: 575.98px) {
-  .btn-rounded {
-    display: none;
-  }
-}
 .btn-rounded span {
   position: absolute;
   background-color: #198754;
@@ -10803,6 +10798,12 @@ textarea.form-control-lg {
 }
 .btn-rounded:hover span {
   background-color: rgba(0, 0, 0, 0.6);
+}
+
+@media (max-width: 575.98px) {
+  .btn-sm {
+    display: none;
+  }
 }
 
 .display-2 {
@@ -10914,6 +10915,13 @@ textarea.form-control-lg {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 575.98px) {
+  .card {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
 }
 
 .navbar-brand img {

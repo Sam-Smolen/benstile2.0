@@ -115,3 +115,10 @@
         -webkit-text-fill-color: transparent;
     }
 }
+
+.card {
+    @include media-breakpoint-down(sm) {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+}

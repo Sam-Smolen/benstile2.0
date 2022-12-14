@@ -26,16 +26,16 @@
             <a class="nav-link active" aria-current="page" href="https://samsmolen.com/benstile2.0/index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#services">Services</a>
+            <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.html#services">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#testimonials">Testimonials</a>
+            <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.html#testimonials">Testimonials</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#faq">FAQ</a>
+            <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.html#faq">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#portfolio">Portfolio</a>
+            <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.html#portfolio">Portfolio</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
@@ -59,8 +59,8 @@
 
         include 'includes/contact_include.php'; #site keys & code here
     
-        $toAddress = "ben.rich11@gmail.com";  //place your/your client's email address here
-        $toName = "Ben Smolen"; //place your client's name here
+        $toAddress = "sam.smolen@icloud.com";  //place your/your client's email address here
+        $toName = "Sam Smolen"; //place your client's name here
         $website = "Ben's Tile & More";  //place NAME of your client's website
 
         echo loadContact('simple.php','new_feedback.php');#demonstrates a simple contact form

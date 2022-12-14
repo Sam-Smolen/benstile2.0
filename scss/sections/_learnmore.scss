@@ -33,6 +33,12 @@
     //align-items: center;
     //justify-items: center;
 
+    @include media-breakpoint-down(sm) {
+        font-size: 1.5rem;
+        font-weight: 0;
+        margin-bottom: 1rem;
+    }
+
  }
 
  .learn-about__text  p{
@@ -47,6 +53,20 @@
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+
+    @include media-breakpoint-down(sm) {
+        line-height: 2.3;
+        color: $dark;
+        font-size: 0.75rem;
+        font-weight: 350;
+        display: inline-block;
+        //text-align: center;
+        font-family: 'Poppins', sans-serif;
+        background-image: linear-gradient(to right, $primary, $teal);
+        //background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent; 
+    }
  }
  
  .learn-about__heading--line::before {
@@ -58,6 +78,17 @@
     margin-left: 3rem;
     background-color: $primary;
     opacity: 0.35;
+
+    @include media-breakpoint-down(sm) {
+    content: "";
+    width: 100%;
+    height: 0.1rem;
+    display: block;
+    margin: auto;
+    //margin-left: 3rem;
+    background-color: $primary;
+    opacity: 0.35;
+    }
 }
 
 .learn-about__heading--line::after {
@@ -71,6 +102,19 @@
     margin-bottom: 1rem;
     background-color: $primary;
     opacity: 0.35;
+
+    @include media-breakpoint-down(sm) {
+    content: "";
+    width: 4rem;
+    padding-top: 0.5rem;
+    height: 0.2rem;
+    //margin: 0 auto;
+    margin-left: 10.5rem;
+    display: none;
+    margin-bottom: 1rem;
+    background-color: $primary;
+    opacity: 0.35;
+    }
 }
 
 .display-5 {
@@ -81,6 +125,16 @@
     -webkit-text-fill-color: transparent;
     font-size: 2rem;
     font-weight: 400;
+
+    @include media-breakpoint-down(sm) {
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right, $primary, $teal);
+    //background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1rem;
+    font-weight: 500;
+    }
 }
 
 .learn-more-portfolio {

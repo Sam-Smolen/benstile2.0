@@ -10810,6 +10810,13 @@ textarea.form-control-lg {
   padding: 1rem;
   margin-top: 5rem;
 }
+@media (max-width: 575.98px) {
+  .btn-primary {
+    padding: 1rem;
+    margin-top: 1rem;
+    opacity: 0.75;
+  }
+}
 
 .display-2 {
   margin-bottom: 1rem;
@@ -11308,6 +11315,13 @@ textarea.form-control-lg {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+@media (max-width: 575.98px) {
+  .learn__about--header {
+    font-size: 1.5rem;
+    font-weight: 0;
+    margin-bottom: 1rem;
+  }
+}
 
 .learn-about__text p {
   line-height: 2.3;
@@ -11321,6 +11335,19 @@ textarea.form-control-lg {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+@media (max-width: 575.98px) {
+  .learn-about__text p {
+    line-height: 2.3;
+    color: #212529;
+    font-size: 0.75rem;
+    font-weight: 350;
+    display: inline-block;
+    font-family: "Poppins", sans-serif;
+    background-image: linear-gradient(to right, #198754, #20c997);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
 
 .learn-about__heading--line::before {
   content: "";
@@ -11330,6 +11357,17 @@ textarea.form-control-lg {
   margin-left: 3rem;
   background-color: #198754;
   opacity: 0.35;
+}
+@media (max-width: 575.98px) {
+  .learn-about__heading--line::before {
+    content: "";
+    width: 100%;
+    height: 0.1rem;
+    display: block;
+    margin: auto;
+    background-color: #198754;
+    opacity: 0.35;
+  }
 }
 
 .learn-about__heading--line::after {
@@ -11343,6 +11381,19 @@ textarea.form-control-lg {
   background-color: #198754;
   opacity: 0.35;
 }
+@media (max-width: 575.98px) {
+  .learn-about__heading--line::after {
+    content: "";
+    width: 4rem;
+    padding-top: 0.5rem;
+    height: 0.2rem;
+    margin-left: 10.5rem;
+    display: none;
+    margin-bottom: 1rem;
+    background-color: #198754;
+    opacity: 0.35;
+  }
+}
 
 .display-5 {
   font-family: "Poppins", sans-serif;
@@ -11352,6 +11403,16 @@ textarea.form-control-lg {
   -webkit-text-fill-color: transparent;
   font-size: 2rem;
   font-weight: 400;
+}
+@media (max-width: 575.98px) {
+  .display-5 {
+    font-family: "Poppins", sans-serif;
+    background-image: linear-gradient(to right, #198754, #20c997);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1rem;
+    font-weight: 500;
+  }
 }
 
 .learn-more-portfolio {

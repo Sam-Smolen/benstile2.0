@@ -1,0 +1,95 @@
+@use '../custom' as *;
+@use '../components/mixins'as *;
+
+.learn-more {
+    position: relative;
+    padding: 10rem 0 0 0;
+}
+
+
+.learn-about__section {
+    padding: 60px 60px;
+    color: $lime;
+    background-color: $white;
+ }
+
+ .learn-about__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+ }
+
+ .learn__about--header {
+    font-size: 3rem;
+    font-weight: bold;
+    color: $dark;
+    margin-bottom: 32px;
+    display: grid;
+    padding-bottom: 1rem;
+    background-image: linear-gradient(to right, $primary, $teal);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    //align-items: center;
+    //justify-items: center;
+
+ }
+
+ .learn-about__text  p{
+    line-height: 2.3;
+    color: $dark;
+    font-size: 20px;
+    font-weight: 350;
+    display: inline-block;
+    //text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right, $primary, $teal);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
+ 
+ .learn-about__heading--line::before {
+    content: "";
+    width: 20rem;
+    height: 0.1rem;
+    display: block;
+    //margin: 0 auto;
+    margin-left: 3rem;
+    background-color: $primary;
+    opacity: 0.35;
+}
+
+.learn-about__heading--line::after {
+    content: "";
+    width: 4rem;
+    padding-top: 0.5rem;
+    height: 0.2rem;
+    //margin: 0 auto;
+    margin-left: 10.5rem;
+    display: block;
+    margin-bottom: 1rem;
+    background-color: $primary;
+    opacity: 0.35;
+}
+
+.display-5 {
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right, $primary, $teal);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.learn-more-portfolio {
+    position: relative;
+    padding: 0;
+    //@include gradient;
+}
+
+.learn__more--gallery {
+    margin-top: 0;
+    padding-top: 0;
+}

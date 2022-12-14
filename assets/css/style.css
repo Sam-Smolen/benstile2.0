@@ -10806,6 +10806,11 @@ textarea.form-control-lg {
   }
 }
 
+.btn-primary {
+  padding: 1rem;
+  margin-top: 5rem;
+}
+
 .display-2 {
   margin-bottom: 1rem;
   text-transform: capitalize;
@@ -11272,6 +11277,91 @@ textarea.form-control-lg {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.learn-more {
+  position: relative;
+  padding: 10rem 0 0 0;
+}
+
+.learn-about__section {
+  padding: 60px 60px;
+  color: #72fe00;
+  background-color: #fff;
+}
+
+.learn-about__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.learn__about--header {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #212529;
+  margin-bottom: 32px;
+  display: grid;
+  padding-bottom: 1rem;
+  background-image: linear-gradient(to right, #198754, #20c997);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.learn-about__text p {
+  line-height: 2.3;
+  color: #212529;
+  font-size: 20px;
+  font-weight: 350;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  background-image: linear-gradient(to right, #198754, #20c997);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.learn-about__heading--line::before {
+  content: "";
+  width: 20rem;
+  height: 0.1rem;
+  display: block;
+  margin-left: 3rem;
+  background-color: #198754;
+  opacity: 0.35;
+}
+
+.learn-about__heading--line::after {
+  content: "";
+  width: 4rem;
+  padding-top: 0.5rem;
+  height: 0.2rem;
+  margin-left: 10.5rem;
+  display: block;
+  margin-bottom: 1rem;
+  background-color: #198754;
+  opacity: 0.35;
+}
+
+.display-5 {
+  font-family: "Poppins", sans-serif;
+  background-image: linear-gradient(to right, #198754, #20c997);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.learn-more-portfolio {
+  position: relative;
+  padding: 0;
+}
+
+.learn__more--gallery {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 /*# sourceMappingURL=style.css.map */

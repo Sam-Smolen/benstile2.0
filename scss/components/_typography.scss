@@ -103,3 +103,15 @@
     background: linear-gradient(to right, rgba($primary,0.95), rgba($secondary,0.95));
 
 }
+
+.display--4 {
+    font-family: 'Poppins', sans-serif;
+
+    &__feedback-title {
+        background-image: linear-gradient(to right, $primary, $teal);
+        background-image: linear-gradient(to right, $primary, $teal);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}

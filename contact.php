@@ -14,7 +14,7 @@
 <!--NAVBAR-->
 <nav class="navbar navbar-expand-lg navbar-dark menu shadow fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="index.html">
         <img src="images/nav-logo.png" alt="logo image">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -59,11 +59,11 @@
 
         include 'includes/contact_include.php'; #site keys & code here
     
-        $toAddress = "sam.smolen@icloud.com";  //place your/your client's email address here
-        $toName = "Sam Smolen"; //place your client's name here
-        $website = "IT162 Portal - Sam Smolen";  //place NAME of your client's website
+        $toAddress = "ben.rich11@gmail.com";  //place your/your client's email address here
+        $toName = "Ben Smolen"; //place your client's name here
+        $website = "Ben's Tile & More";  //place NAME of your client's website
 
-        echo loadContact('simple.php', 'feedback_custom.php');#demonstrates a simple contact form
+        echo loadContact('simple.php','new_feedback.php');#demonstrates a simple contact form
         //echo loadContact('multiple.php');#demonstrates multiple form elements
 
 	?>

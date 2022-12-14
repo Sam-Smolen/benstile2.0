@@ -9,6 +9,7 @@ $light-brown: #e6e2d3;
 $dark-brown: #481f01;
 $darkyellow: #efcc00;
 $footer: #023020;
+$grass: #9dd49d;
 
 
 
@@ -28,7 +29,8 @@ $black:    #000;
 
 $primary: $green-light;
 $secondary: $green-dark;
-$success: $lime;
+$success: $grass;
+$info:          $servicesgreen;
 
 //ACCORDIAN OVERRIDES
 $accordion-padding-y:                     1.5rem;
@@ -43,6 +45,7 @@ $accordion-button-active-icon:  url("data:image/svg+xml,<svg xmlns='http://www.w
 
 $primary: $green-light;
 $secondary: $green-dark;
-$success: $lime;
+$success: $grass;
+$info:          $servicesgreen;
 //IMPORT BOOTSTRAP 5
 @import "../node_modules/bootstrap/scss/bootstrap.scss";

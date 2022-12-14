@@ -49,3 +49,26 @@
     justify-items: center;
 
  }
+
+ // STYLES FOR FEEDBACK.PHP
+
+ .feedback-info {
+    padding: 3rem;
+    margin: 1rem 0;
+    
+    button {
+        border: none;
+        color: $white;
+
+        a {
+            color: $white;
+            text-decoration: none;
+            text-transform: capitalize;
+        }
+    }
+}
+
+
+
+    
+ 

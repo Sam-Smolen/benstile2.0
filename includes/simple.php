@@ -64,7 +64,6 @@
           <div class="col-lg-12 mb-3"><textarea placeholder="Message" required="required" name="message" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
           </div>
           <div class="col-lg-6 col-md-6 mb-3 g-recaptcha" data-sitekey="<?=$siteKey;?>"></div>
-          <!--div class="g-recaptcha" data-sitekey="<?=$siteKey;?>"></div-->
           <div class="text-center d-grid mt-1">
             <button type="submit" value="submit" class="btn btn-primary rounded-pill pt-3 pb-3">
               Submit

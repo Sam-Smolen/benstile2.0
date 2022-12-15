@@ -40,9 +40,6 @@
  </div>
  <div class="my__wave"><img src="images/wave.svg" alt="waves"></img></div>
 <!-- SERVICES -->
-<!--<div class="bg-image" 
-     style="background-image: url('images/bg.png');
-            width: 100%;"-->
 <section id="services" class="services">
   <div class="container">
     <div class="row text-center">

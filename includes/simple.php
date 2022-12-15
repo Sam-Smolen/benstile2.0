@@ -60,7 +60,7 @@
         <form action="<?php echo basename($_SERVER['PHP_SELF']); ?>" method="post">
           <div class="col-lg-6 col-md-6 mb-3"><input type="text" required="required" placeholder="First Name" id="inputFirstName" class="shadow form-control form-control-lg"></div>
           <div class="col-lg-6 col-md-6 mb-3"><input type="text" required="required" placeholder="Last Name" id="inputLastName" class="shadow form-control form-control-lg"></div>
-          <div class="col-lg-12 mb-3"><input type="email" required="required" placeholder="email Address" id="inputEmail" class="shadow form-control form-control-lg"></div>
+          <div class="col-lg-12 mb-3"><input type="email" required="required" placeholder="Email address" id="inputEmail" class="shadow form-control form-control-lg"></div>
           <div class="col-lg-12 mb-3"><textarea placeholder="Message" required="required" name="message" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
           </div>
           <div class="col-lg-6 col-md-6 mb-3 g-recaptcha" data-sitekey="<?=$siteKey;?>"></div>

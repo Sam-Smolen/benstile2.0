@@ -151,6 +151,9 @@
 </div>
 </footer>
 <!-- END FOOTER SECTION -->
+<a href="https://samsmolen.com/benstile2.0/index.html" class="shadow btn-red rounded-circle back-to-top">
+ <i class="fa-solid fa-backward-step"></i>
+</a>
 
   <script src="assets/js/bootstrap.bundle.js"></script> 
 </body>

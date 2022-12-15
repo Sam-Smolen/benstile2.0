@@ -11029,6 +11029,15 @@ textarea.form-control-lg {
   font-weight: 600;
 }
 
+.dropdown-menu {
+  background: linear-gradient(to right, rgba(25, 135, 84, 0.95), rgba(0, 75, 53, 0.95));
+}
+.dropdown-menu li a {
+  color: #fff !important;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
 .intro-section {
   padding: 10rem 0 0 0;
   width: 100%;

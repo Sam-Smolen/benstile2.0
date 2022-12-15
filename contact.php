@@ -14,7 +14,7 @@
 <!--NAVBAR-->
 <nav class="navbar navbar-expand-lg navbar-dark menu shadow fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="index.html">
+      <a class="navbar-brand" href="#">
         <img src="images/nav-logo.png" alt="logo image">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -25,23 +25,32 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="https://samsmolen.com/benstile2.0/index.html">Home</a>
           </li>
+          <div class="dropdown">
+            <a class="btn btn-outline-secondary text-white dropdown-toggle" style="border: none; background: none; padding: 0.5rem; font-weight: 600;" href="https://samsmolen.com/benstile2.0/index.html#services" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+              Services
+            </a>
+          
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              <li><a class="dropdown-item" href="https://samsmolen.com/benstile2.0/index.html#services">Our services</a></li>
+              <li><a class="dropdown-item" href="https://samsmolen.com/benstile2.0/learnmoretile.html">Tile design</a></li>
+              <li><a class="dropdown-item" href="https://samsmolen.com/benstile2.0/learnmorebathroom.html">Custom bathroom design</a></li>
+              <li><a class="dropdown-item" href="https://samsmolen.com/benstile2.0/learnmorekitchen.html">Custom kitchen design</a></li>
+            </ul>
+          </div>
           <li class="nav-item">
-            <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.html#services">Services</a>
+            <a class="nav-link" href="#testimonials">Testimonials</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.html#testimonials">Testimonials</a>
+            <a class="nav-link" href="#faq">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.html#faq">FAQ</a>
+            <a class="nav-link" href="#portfolio">Portfolio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.html#portfolio">Portfolio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.php">Contact</a>
+            <a class="nav-link" href="#contact">Contact</a>
           </li>
         </ul>
-        <button type="button" class="rounded-pill btn-rounded">+1 2068492789
+        <button type="button" class="rounded-pill btn-rounded btn-sm">+1 2068492789
             <span>
                 <i class="fas fa-phone-alt"></i>
             </span>

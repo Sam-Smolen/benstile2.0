@@ -57,3 +57,46 @@
         }
     }
 }
+
+.carouselCaptions__carousel-inner {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    border-top: 15px;
+    border-left: 15px;
+    border-right: 15px;
+    border-bottom: 15px;
+    border-color: $primary;
+    border-style: solid;
+
+    img {
+        height: auto;
+
+        @include media-breakpoint-up(lg) {
+            height: 80vh;
+            
+        }
+
+        
+    }
+}   
+
+
+.carousel-control-prev {
+    font-size: 3rem;
+    color: rgba($primary, 0.75);
+}
+
+.carousel-control-next {
+    font-size: 3rem;
+    color: rgba($primary, 0.75);
+}
+.recent-projects {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+
+    @include media-breakpoint-down(sm) {
+        margin-top: 0;
+        margin-bottom: 2rem;
+    }
+}

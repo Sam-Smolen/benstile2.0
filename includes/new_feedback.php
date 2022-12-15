@@ -52,7 +52,7 @@
          <hr class="white pt-3 pt-3">
          <div class="text-center d-grid mt-1 pt-5">
          <button type="button" class="btn btn-info rounded-pill pt-3 pb-3">
-              <a href="index.html">Back to home</a>
+              <a href="https://samsmolen.com/benstile2.0/index.php">Back to home</a>
               <i class="fas fa-paper-plane"></i>
             </button>
         </div>

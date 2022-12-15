@@ -10,7 +10,8 @@
             <span class="span display-2--description lh-base">We'd love to hear from you.</span>
             <span class="span display-2--text">Contact Us Now to Get an Estimate.</span>
           </h1>
-          <button type="button" class="rounded-pill btn-rounded btn-sm">Get in Touch
+          <button type="button" class="rounded-pill btn-rounded btn-sm">
+            <a href="contact.php">Get in Touch</a>
             <span>
                 <i class="fas fa-arrow-right"></i>
             </span>

@@ -85,6 +85,13 @@
 <a href="#" class="shadow btn-red rounded-circle back-to-top">
   <i class="fas fa-chevron-up"></i>
 </a>
+<script>(function(d){var s = d.createElement("script");s.setAttribute("data-account", "VjwHdGe8lV");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document)</script><noscript>Please ensure Javascript is enabled for purposes of <a href="https://userway.org">website accessibility</a></noscript>
+
+<script>
+  document.getElementById("html-checker").setAttribute("href","https://validator.w3.org/nu/?doc=" + location.href);
+             
+             document.getElementById("css-checker").setAttribute("href","https://jigsaw.w3.org/css-validator/validator?uri=" + location.href);
+</script>
 
    
 </body>

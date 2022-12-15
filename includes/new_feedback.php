@@ -41,8 +41,8 @@
          <div class="card text-white bg-info mb-5 pb-5">
          <div class="card-header text-center pb-3 pb-3"><h4 class="display-4">Success!</div>
             <div class="card-body text-center lh-lg">
-             <h5 class="card-title">Primary card title</h5>
-             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+             <h5 class="card-title">We appreciate the feedback!</h5>
+             <p class="card-text">We will get back to you as soon as we can!</p>
              <!--button type="submit" value="submit" class="btn btn-secondary rounded-pill pt-3 pb-3">
               Back to home
               <i class="fas fa-paper-plane"></i>

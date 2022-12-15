@@ -51,3 +51,78 @@
         opacity: 0.75;
     }
 }
+
+.call-me__buttons {
+    display: inline-block;
+    text-align: center;
+}
+.btn-warning {
+    margin: 3px;
+    width: 15rem;
+    font-weight: 700;
+    background-color: $white;
+    border: 0.3rem solid rgba($secondary,0.6);
+
+    @include media-breakpoint-down(sm) {
+        margin-bottom: 2.5rem;
+    }
+
+    span {
+        margin: 5px;
+
+        i {
+            color: $primary
+        }
+    }
+
+    &:hover {
+        @include gradient;
+        color: $white;
+        border: 0.3rem solid rgba($secondary,0.6);
+
+        i {
+            color: $white;
+        }
+    }
+}
+
+.btn-danger {
+    margin: 3px;
+    width: 15rem;
+    font-weight: 700;
+    background-color: $white;
+    border: 0.3rem solid rgba($secondary,0.6);
+    color: $dark;
+
+    @include media-breakpoint-down(sm) {
+        margin-bottom: 1rem;
+    }
+
+    span {
+        margin: 5px;
+
+        i {
+            color: $primary
+        }
+
+        
+    }
+
+    &:hover {
+        @include gradient;
+        color: $white;
+        border: 0.3rem solid rgba($secondary,0.6);
+
+        i {
+            color: $white;
+        }
+
+        a {
+            color: $white;
+        }
+    }   
+}
+
+.btn-danger a {
+    color: $dark;
+}

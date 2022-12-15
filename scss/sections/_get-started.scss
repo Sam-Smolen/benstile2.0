@@ -68,7 +68,20 @@
     }
 }
 
+.contact__heading--line {
+    content: "";
+    width: 90%;
+    height: 2px;
+    display: block;
+    margin: 0 auto;
+    background-color: $primary;
+    opacity: 0.5;
+    margin-top: 3rem;
+}
 
+.call__me--text {
+    padding: 3rem;
+}
 
     
  

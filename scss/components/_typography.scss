@@ -122,3 +122,12 @@
         padding-bottom: 0;
     }
 }
+
+.display-7 {
+    font-size: 2rem;
+    background-image: linear-gradient(to right, $primary, $teal);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 2rem;
+}

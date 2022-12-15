@@ -11293,6 +11293,10 @@ textarea.form-control-lg {
   padding: 3rem;
 }
 
+.phone__num a {
+  color: #fff;
+}
+
 .footer {
   padding-top: 1rem;
   background-color: #023020;

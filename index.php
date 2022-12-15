@@ -75,7 +75,7 @@
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
-          <a href="learnmoretile.html">Learn More</a>
+          <a href="https://samsmolen.com/benstile2.0/learnmoretile.php">Learn More</a>
           <span>
               <i class="fas fa-arrow-right"></i>
           </span>
@@ -102,7 +102,7 @@
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
-          <a href="learnmorebathroom.html">Learn More</a>
+          <a href="https://samsmolen.com/benstile2.0/learnmorebathroom.php">Learn More</a>
           <span>
               <i class="fas fa-arrow-right"></i>
           </span>
@@ -119,7 +119,7 @@
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
-          <a href="learnmorekitchen.html">Learn More</a>
+          <a href="https://samsmolen.com/benstile2.0/learnmorekitchen.php">Learn More</a>
           <span>
               <i class="fas fa-arrow-right"></i>
           </span>

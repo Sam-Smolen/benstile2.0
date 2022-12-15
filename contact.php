@@ -19,4 +19,4 @@
 
 	?>
 <!-- START FOOTER SECTION -->
-<?php include 'includes/footer.php';?>
+<?php include 'includes/contactfooter.php';?>

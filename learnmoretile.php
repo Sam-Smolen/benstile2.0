@@ -148,4 +148,4 @@
   </section>
   <!-- END GALLERY IMAGES-->
 
-  <?php include 'includes/footer.php';?>
+  <?php include 'includes/learnmorefooter.php';?>

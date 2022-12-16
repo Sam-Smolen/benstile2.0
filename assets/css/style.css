@@ -11042,6 +11042,13 @@ textarea.form-control-lg {
   font-weight: 600;
 }
 
+.navbar-toggler {
+  margin-top: 3rem;
+}
+.navbar-toggler .navbar-toggler {
+  margin-top: 3rem;
+}
+
 .intro-section {
   padding: 10rem 0 0 0;
   width: 100%;
@@ -11088,19 +11095,34 @@ textarea.form-control-lg {
 }
 
 .bg-image {
-  height: 100vh;
-}
-@media (max-width: 767.98px) {
-  .bg-image {
-    height: auto;
-  }
-}
-@media (max-width: 575.98px) {
-  .bg-image {
-    height: auto;
-  }
+  height: auto;
 }
 
+@media (min-width: 992px) {
+  .bg-image {
+    height: 80vh;
+  }
+}
+@media (min-width: 576px) {
+  .bg-image {
+    height: auto;
+  }
+}
+@media (min-width: 768px) {
+  .bg-image {
+    height: 70vh;
+  }
+}
+@media (min-width: 1200px) {
+  .bg-image {
+    height: 100vh;
+  }
+}
+@media (min-width: 1400px) {
+  .bg-image {
+    height: 100vh;
+  }
+}
 .services {
   position: relative;
   padding: 1rem 0;

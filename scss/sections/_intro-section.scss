@@ -56,14 +56,35 @@
  }
 
  .bg-image {
+   height: auto;
+ }
+ @include media-breakpoint-up(lg) {
+   .bg-image {
+   height: 80vh;
+
+   }
+ }
+ @include media-breakpoint-up(sm) {
+   .bg-image {
+   height: auto;
+
+   }
+ }
+ @include media-breakpoint-up(md) {
+   .bg-image {
+   height: 70vh;
+
+   }
+ }
+ @include media-breakpoint-up(xl) {
+   .bg-image {
    height: 100vh;
 
-   @include media-breakpoint-down(md) {
-      height: auto;
    }
+ }
+ @include media-breakpoint-up(xxl) {
+   .bg-image {
+   height: 100vh;
 
-   @include media-breakpoint-down(sm) {
-      height: auto;
    }
-
  }

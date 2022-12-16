@@ -30,3 +30,15 @@
         }
     }
 }
+
+.navbar-toggler {
+    margin-top: 3rem;
+
+    @include media-breakpoint-up(xs) {
+        .navbar-toggler {
+        margin-top: 3rem;
+     
+        }
+    }
+
+}

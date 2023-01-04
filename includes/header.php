@@ -24,31 +24,31 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="https://samsmolen.com/benstile2.0/index.php">Home</a>
+          <a class="nav-link active" aria-current="page" href="https://benstilenmore.com/index.php">Home</a>
         </li>
         <div class="dropdown">
-          <a class="btn btn-outline-secondary text-white dropdown-toggle" style="border: none; background: none; padding: 0.5rem; font-weight: 600;" href="https://samsmolen.com/benstile2.0/index.html#services" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="btn btn-outline-secondary text-white dropdown-toggle" style="border: none; background: none; padding: 0.5rem; font-weight: 600;" href="https://benstilenmore.com/index.php#services" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
             Services
           </a>
         
           <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-            <li><a class="dropdown-item" href="https://samsmolen.com/benstile2.0/index.php#services">Our services</a></li>
-            <li><a class="dropdown-item" href="https://samsmolen.com/benstile2.0/learnmoretile.php">Tile design</a></li>
-            <li><a class="dropdown-item" href="https://samsmolen.com/benstile2.0/learnmorebathroom.php">Custom bathroom design</a></li>
-            <li><a class="dropdown-item" href="https://samsmolen.com/benstile2.0/learnmorekitchen.php">Custom kitchen design</a></li>
+            <li><a class="dropdown-item" href="https://benstilenmore.com/index.php#services">Our services</a></li>
+            <li><a class="dropdown-item" href="https://benstilenmore.com/learnmoretile.php">Tile design</a></li>
+            <li><a class="dropdown-item" href="https://benstilenmore.com/learnmorebathroom.php">Custom bathroom design</a></li>
+            <li><a class="dropdown-item" href="https://benstilenmore.com/learnmorekitchen.php">Custom kitchen design</a></li>
           </ul>
         </div>
         <li class="nav-item">
-          <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.php#testimonials">Testimonials</a>
+          <a class="nav-link" href="https://benstilenmore.com/index.php#testimonials">Testimonials</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.php#faq">FAQ</a>
+          <a class="nav-link" href="https://benstilenmore.com/index.php#faq">FAQ</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.php#portfolio">Portfolio</a>
+          <a class="nav-link" href="https://benstilenmore.com/index.php#portfolio">Portfolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://samsmolen.com/benstile2.0/index.php#contact">Contact</a>
+          <a class="nav-link" href="https://benstilenmore.com/index.php#contact">Contact</a>
         </li>
       </ul>
       <button type="button" class="rounded-pill btn-rounded btn-sm">+1 2068492789

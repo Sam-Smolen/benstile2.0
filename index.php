@@ -1,6 +1,6 @@
 <?php include 'includes/header.php';?>
 <div class="bg-image" 
-     style="background-image: url('images/bgimg.jpg'); width: 100%;">
+     style="background-image: url('images/newbgimg.jpg'); width: 100%;">
   <section id="home" class="intro-section">
     <div class="container">
       <div class="row align-items-center text-white">
@@ -75,7 +75,7 @@
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
-          <a href="https://samsmolen.com/benstile2.0/learnmoretile.php">Learn More</a>
+          <a href="https://benstilenmore.com/learnmoretile.php">Learn More</a>
           <span>
               <i class="fas fa-arrow-right"></i>
           </span>
@@ -102,7 +102,7 @@
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
-          <a href="https://samsmolen.com/benstile2.0/learnmorebathroom.php">Learn More</a>
+          <a href="https://benstilenmore.com/learnmorebathroom.php">Learn More</a>
           <span>
               <i class="fas fa-arrow-right"></i>
           </span>
@@ -119,7 +119,7 @@
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
-          <a href="https://samsmolen.com/benstile2.0/learnmorekitchen.php">Learn More</a>
+          <a href="https://benstilenmore.com/learnmorekitchen.php">Learn More</a>
           <span>
               <i class="fas fa-arrow-right"></i>
           </span>

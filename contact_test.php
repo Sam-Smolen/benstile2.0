@@ -11,8 +11,6 @@
     
         $toAddress = "sam.smolen@icloud.com";  //place your/your client's email address here
         $toName = "Sam Smolen"; //place your client's name here
-        //$toAddress = "marksmolen032066@gmail.com";  //place your/your client's email address here
-        //$toName = "Mark Smolen"; //place your client's name here
         $website = "Ben's Tile & More";  //place NAME of your client's website
 
         echo loadContact('simple.php','new_feedback.php');#demonstrates a simple contact form

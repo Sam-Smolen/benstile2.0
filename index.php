@@ -57,7 +57,7 @@
       <div class="col-md-6">
         <div class="bg-white p-4 text-start">
           <p class="fw-light">
-            At Ben's tile and More color and style is something we take seriously. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            At Ben's tile and More color and style is something we take seriously.
           </p>
         </div>
       </div>
@@ -72,7 +72,7 @@
         <div class="icon d-block fa-solid fa-ruler-combined"></div>
         <h3 class="display-3--title mt-1">Custom Tile installation</h3>
         <p class="lh-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
+          Needs Content 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
           <a href="https://benstilenmore.com/learnmoretile.php">Learn More</a>
@@ -91,7 +91,7 @@
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
       <div class="services__pic">
-        <img src="images/bathroom.jpg" alt="custom tile work" class="img-fluid"> 
+        <img src="images/quinby5.jpg" alt="custom tile work" class="img-fluid"> 
       </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
@@ -99,7 +99,7 @@
         <div class="icon d-block fa-solid fa-wrench"></div>
         <h3 class="display-3--title mt-1">Custom Bathroom Design</h3>
         <p class="lh-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
+        Needs Content 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
           <a href="https://benstilenmore.com/learnmorebathroom.php">Learn More</a>
@@ -116,7 +116,7 @@
         <div class="icon d-block fa-solid fa-hammer"></div>
         <h3 class="display-3--title mt-1">Custom Kitchen Design</h3>
         <p class="lh-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam numquam repellat nobis eum corrupti eaque officia perspiciatis officiis nam, libero enim non iusto? Officiis optio tempora enim ipsam. 
+        Needs Content
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
           <a href="https://benstilenmore.com/learnmorekitchen.php">Learn More</a>
@@ -263,7 +263,7 @@
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                Everett-Seattle. Greater Seattle area
                 </div>
               </div>
             </div>
@@ -276,7 +276,7 @@
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                Needs Content
                 </div>
               </div>
             </div>
@@ -289,7 +289,7 @@
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                Needs Content
                 </div>
               </div>
             </div>
@@ -297,12 +297,12 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingFour">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                  How far do you travel for jobs?
+                  What Services do you offer?
                 </button>
               </h2>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the fourth item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                Needs Content
                 </div>
               </div>
             </div>
@@ -315,7 +315,7 @@
               </h2>
               <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the fifth item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                Email me at benstilenmore@gmail.com or message me @benstile.more on Instagram
                 </div>
               </div>
             </div>
@@ -328,7 +328,7 @@
               </h2>
               <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the sixth item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                Yes, you can see recent jobs I've done Facebook, Instagram, Or check out examples of my past work here
                 </div>
               </div>
             </div>
@@ -354,24 +354,24 @@
       </div>
       <div class="carouselCaptions__carousel-inner">
         <div class="carousel-item active">
-          <img src="images/filler/filler4.jpg" class="d-block w-100" alt="...">
+          <img src="images/quinby.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h5 class="fw-bold">Filler image 1</h5>
-            <p>Some representative placeholder content for the first slide.</p>
+            <p>Needs Content</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="images/filler/filler1.jpg" class="d-block w-100" alt="...">
+          <img src="images/quinby4.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h5 class="fw-bold">Filler image 2</h5>
-            <p>Some representative placeholder content for the second slide.</p>
+            <p>Needs Content</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="images/filler/filler3.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h5 class="fw-bold">Filler image 3</h5>
-            <p>Some representative placeholder content for the third slide.</p>
+            <p>Needs Content</p>
           </div>
         </div>
       </div>
@@ -395,7 +395,7 @@
       <h1 class="display-3 fw-bold text-capitalize">Get Started</h1>
       <div class="heading-line"></div>
       <p class="lh-lg">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis recusandae tempore in.
+      Needs Content
       </p>
     </div>
     <!--START CTA CONTENT-->

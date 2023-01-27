@@ -56,8 +56,8 @@
       </div>
       <div class="col-md-6">
         <div class="bg-white p-4 text-start">
-          <p class="fw-light">
-            At Ben's tile and More color and style is something we take seriously. We offer proffessional tile installation services at an affordable price, and will help you find a stle that best suits what you're looking for. 
+          <p class="content-caption">
+            At Ben's tile and More color and style is something we take seriously. We offer proffessional tile installation services at an affordable price, and will help you find a style that best suits what you're looking for. 
           </p>
         </div>
       </div>
@@ -394,8 +394,8 @@
     <div class="row text-center">
       <h1 class="display-3 fw-bold text-capitalize">Get Started</h1>
       <div class="heading-line"></div>
-      <p class="lh-lg">
-      Needs Content
+      <p class="content-caption lh-lg">
+      Send me an email today to get started on your new home imporvment project! All emails are sent to <b>benstilenmore@gmail.com</b> and do my best to respond within 24 hours!
       </p>
     </div>
     <!--START CTA CONTENT-->

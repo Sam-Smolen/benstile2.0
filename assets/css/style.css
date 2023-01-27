@@ -11016,6 +11016,12 @@ textarea.form-control-lg {
   margin-top: 2rem;
 }
 
+.content-caption {
+  font-weight: 400;
+  line-height: 2;
+  font-size: large;
+}
+
 .navbar-brand img {
   width: 175px;
   height: 100px;

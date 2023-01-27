@@ -23,7 +23,7 @@
       <h1 class="display-3 fw-bold text-capitalize">Get Started</h1>
       <div class="heading-line"></div>
       <p class="lh-lg">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis recusandae tempore in.
+        Send me an email today to get started on your new home imporvment project! All emails are sent to <b>benstilenmore@gmail.com</b> and do my best to respond within 24 hours! 
       </p>
     </div>
     <!--START CTA CONTENT-->
@@ -36,7 +36,7 @@
             <i class="fas fa-phone-alt p-3"></i>
         </span>
          </p>
-         <p class="lh-lg">bensmolen@gmail.com
+         <p class="lh-lg">benstilenmore@gmail.com
           <span>
             <i class="fa-solid fa-envelope white p-3"></i>
           </span>

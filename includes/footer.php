@@ -28,7 +28,7 @@
           </svg>
         </div>
         <div class="contact-box__info">
-          <a href="" class="contact-box__info--title">benstilenmore@gmail.com</a>
+          <a href="https://benstilenmore.com/contact.php" class="contact-box__info--title">benstilenmore@gmail.com</a>
           <p class="contact-box__info--subtitle">Questions?</p>
         </div>
       </div>

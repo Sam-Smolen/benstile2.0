@@ -51,13 +51,13 @@
     <div class="row pt-2 pb-2 mt-0 mb-3">
       <div class="col-md-6 border-right">
         <div class="bg-white p-3">
-          <h2 class="fw-bold text-capitalize text-center">Needs Content </h2>
+          <h2 class="fw-bold text-capitalize text-center">We offer custom tile installation & removal services for your next home improvement, bathroom or kitchen project!</h2>
         </div>
       </div>
       <div class="col-md-6">
         <div class="bg-white p-4 text-start">
           <p class="fw-light">
-            At Ben's tile and More color and style is something we take seriously.
+            At Ben's tile and More color and style is something we take seriously. We offer proffessional tile installation services at an affordable price, and will help you find a stle that best suits what you're looking for. 
           </p>
         </div>
       </div>
@@ -70,7 +70,7 @@
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4 text-start">
       <div class="services__content">
         <div class="icon d-block fa-solid fa-ruler-combined"></div>
-        <h3 class="display-3--title mt-1">Custom Tile installation</h3>
+        <h3 class="display-3--title mt-1">Custom Floor/Tile installation & Removal</h3>
         <p class="lh-lg">
           Needs Content 
         </p>
@@ -97,7 +97,7 @@
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
       <div class="services__content">
         <div class="icon d-block fa-solid fa-wrench"></div>
-        <h3 class="display-3--title mt-1">Name Service</h3>
+        <h3 class="display-3--title mt-1">Custom Batroom Work</h3>
         <p class="lh-lg">
         Needs Content 
         </p>
@@ -114,7 +114,7 @@
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
       <div class="services__content">
         <div class="icon d-block fa-solid fa-hammer"></div>
-        <h3 class="display-3--title mt-1">Name Service</h3>
+        <h3 class="display-3--title mt-1">Custom Kitchen Work</h3>
         <p class="lh-lg">
         Needs Content
         </p>
@@ -246,7 +246,7 @@
 <section id="faq" class="faq">
   <div class="container">
     <div class="row text-center">
-      <h1 class="display-3 text-uppercase">faq</h1>
+      <h3 class="display-3 text-uppercase">faq</h3>
       <div class="heading-line"></div>
         <p class="lead">get knowledge beforehand</p>
       </div>
@@ -258,12 +258,12 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingOne">
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  <h1 class ="faq-header">What is your service area</h1>
+                  <h3 class="faq-header">What is your service area?</h3>
                 </button>
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                Everett-Seattle. Greater Seattle area
+                <h5>Everett-Seattle. Greater Seattle area</h5>
                 </div>
               </div>
             </div>
@@ -271,12 +271,12 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingTwo">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                <h1 class ="faq-header">Are you insured?
+                <h3 class ="faq-header">Are you insured?</h3>
                 </button>
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                Needs Content
+                <h5>Needs Content</h5>
                 </div>
               </div>
             </div>
@@ -284,12 +284,12 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingThree">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                <h1 class ="faq-header">Are you licensed?
+                <h3 class ="faq-header">Are you licensed?</h3>
                 </button>
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                Needs Content
+                <h5>Needs Content</h5>
                 </div>
               </div>
             </div>
@@ -297,12 +297,12 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingFour">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                <h1 class ="faq-header">What Services do you offer?
+                <h3 class ="faq-header">What Services do you offer?</h3>
                 </button>
               </h2>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                Needs Content
+                <h5>Needs Content</h5>
                 </div>
               </div>
             </div>
@@ -310,12 +310,12 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingFive">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                <h1 class ="faq-header">How do I get an estimate?
+                <h3 class ="faq-header">How do I get an estimate?</h3>
                 </button>
               </h2>
               <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                Email me at benstilenmore@gmail.com or message me @benstile.more on Instagram
+                <h5>You can reach me for an estimate at +12068492789, or fill out a simple <a href="https://benstilenmore.com/contact.php">Contact Form</a> and I will reply as soon as I can. I also reply to messages on my socials! I'm on <a href ="https://www.facebook.com/benstilenmore?mibextid=LQQJ4d">Facebook</a>, and <a href="https://www.instagram.com/benstile.more/?igshid=MDM4ZDc5MmU%3D">Instagram</a>!</h5>
                 </div>
               </div>
             </div>
@@ -323,12 +323,12 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                <h1 class ="faq-header">Do you have examples of past work?
+                <h3 class ="faq-header">Do you have examples of past work?</h3>
                 </button>
               </h2>
               <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                Yes, you can see recent jobs I've done Facebook, Instagram, Or check out examples of my past work here
+                <h5>Yes! you can check out examples of my past work i've done  on my Facebook Page -<a href ="https://www.facebook.com/benstilenmore?mibextid=LQQJ4d">Bens' Tile & More</a>, Or check out examples of my past work in my<a href="https://benstilenmore.com/contact.php"> Portfolio</a> here, Or on my Instagram <a href="https://www.instagram.com/benstile.more/?igshid=MDM4ZDc5MmU%3D">@benstile.more</a>.</h5>
                 </div>
               </div>
             </div>

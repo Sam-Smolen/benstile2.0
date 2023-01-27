@@ -1,0 +1,7 @@
+@use '../custom' as *;
+@use '../components/mixins'as *;
+
+.faq-header h1{
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}

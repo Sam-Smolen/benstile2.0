@@ -7,11 +7,11 @@
         <div class="col-md-6 intros text-start">
           <h1 class="display-2">
             <span class="display-2--intro">Welcome to Bens Tile & More!</span>
-            <span class="span display-2--description lh-base">We'd love to hear from you.</span>
+            <span class="span display-2--description lh-base">We'd love to hear from you!</span>
             <span class="span display-2--text">Contact Us Now to Get an Estimate.</span>
           </h1>
           <button type="button" class="rounded-pill btn-rounded btn-sm">
-            <a href="contact.php">Get in Touch</a>
+            <a href="https://benstilenmore.com/contact.php">Get in touch!</a>
             <span>
                 <i class="fas fa-arrow-right"></i>
             </span>
@@ -51,7 +51,7 @@
     <div class="row pt-2 pb-2 mt-0 mb-3">
       <div class="col-md-6 border-right">
         <div class="bg-white p-3">
-          <h2 class="fw-bold text-capitalize text-center">We specialize in bathroom, kitchen and floor tile installation and remodels of all sizes. </h2>
+          <h2 class="fw-bold text-capitalize text-center">Needs Content </h2>
         </div>
       </div>
       <div class="col-md-6">
@@ -97,7 +97,7 @@
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
       <div class="services__content">
         <div class="icon d-block fa-solid fa-wrench"></div>
-        <h3 class="display-3--title mt-1">Custom Bathroom Design</h3>
+        <h3 class="display-3--title mt-1">Name Service</h3>
         <p class="lh-lg">
         Needs Content 
         </p>
@@ -114,7 +114,7 @@
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
       <div class="services__content">
         <div class="icon d-block fa-solid fa-hammer"></div>
-        <h3 class="display-3--title mt-1">Custom Kitchen Design</h3>
+        <h3 class="display-3--title mt-1">Name Service</h3>
         <p class="lh-lg">
         Needs Content
         </p>
@@ -143,7 +143,7 @@
     <div class="row text-center text-white">
       <h1 class="display-3">Testimonials</h1>
       <hr style="width:100px; height:3px;" class="mx-auto">
-      <p class="lead pt-1">what our clients our saying</p>
+      <p class="lead pt-1">What our clients our saying!</p>
     </div>
     <!-- START CAROUSEL-->
     <div class="row align-items-center">
@@ -200,7 +200,7 @@
           </div>
           <!--CLIENT NAME-->
           <div class="testimonials__name">
-            <h3>Stephanie S.</h3>
+            <h3>Possible Tesitimonial.</h3>
             <p class="fw-light">Seattle Wa</p>
           </div>
         </div>
@@ -227,7 +227,7 @@
           </div>
           <!--CLIENT NAME-->
           <div class="testimonials__name">
-            <h3>John D.</h3>
+            <h3>Possible testimonial</h3>
             <p class="fw-light">Everett Wa</p>
           </div>
         </div>
@@ -258,7 +258,7 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingOne">
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  What is your service area?
+                  <h1 class ="faq-header">What is your service area</h1>
                 </button>
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -271,7 +271,7 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingTwo">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  Are you insured?
+                <h1 class ="faq-header">Are you insured?
                 </button>
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
@@ -284,7 +284,7 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingThree">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  Are you licensed?
+                <h1 class ="faq-header">Are you licensed?
                 </button>
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
@@ -297,7 +297,7 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingFour">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                  What Services do you offer?
+                <h1 class ="faq-header">What Services do you offer?
                 </button>
               </h2>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
@@ -310,7 +310,7 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingFive">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                  How do I get an estimate?
+                <h1 class ="faq-header">How do I get an estimate?
                 </button>
               </h2>
               <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
@@ -323,7 +323,7 @@
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                  Do you have examples of past work?
+                <h1 class ="faq-header">Do you have examples of past work?
                 </button>
               </h2>
               <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
@@ -408,7 +408,7 @@
             <i class="fas fa-phone-alt p-3"></i>
         </span>
          </p>
-         <p class="lh-lg">bensmolen@gmail.com
+         <p class="lh-lg">benstilenmore@gmail.com
           <span>
             <i class="fa-solid fa-envelope white p-3"></i>
           </span>

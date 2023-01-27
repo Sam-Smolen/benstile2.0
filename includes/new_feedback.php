@@ -4,7 +4,7 @@
       <h1 class="display--4__feedback-title fw-bold text-capitalize">Thank You!</h1>
       <div class="heading-line"></div>
       <p class="lh-lg">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis recusandae tempore in.
+        Needs Content
       </p>
     </div>
   
@@ -18,7 +18,7 @@
             <i class="fas fa-phone-alt p-3"></i>
         </span>
          </p>
-         <p class="lh-lg">bensmolen@gmail.com
+         <p class="lh-lg">benstilenmore@gmail.com
           <span>
             <i class="fa-solid fa-envelope white p-3"></i>
           </span>

@@ -28,7 +28,7 @@
           </svg>
         </div>
         <div class="contact-box__info">
-          <a href="" class="contact-box__info--title">benrich11@gmail.com</a>
+          <a href="" class="contact-box__info--title">benstilenmore@gmail.com</a>
           <p class="contact-box__info--subtitle">Questions?</p>
         </div>
       </div>
@@ -59,8 +59,8 @@
       <h5>Connect with us on social media!</h5>
     </div>
     <div class="col-lg-7 col-md-6">
-      <a href=""><i class="fab fa-facebook"></i></a>
-      <a href=""><i class="fab fa-instagram"></i></a>
+      <a href="https://www.facebook.com/benstilenmore?mibextid=LQQJ4d"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.instagram.com/benstile.more/?igshid=MDM4ZDc5MmU%3D"><i class="fab fa-instagram"></i></a>
       <a href=""><i class="fab fa-yelp"></i></a>
     </div>
   </div>

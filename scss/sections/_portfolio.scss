@@ -106,9 +106,13 @@
     
   }
   .live-vids__column {
-    flex: 25%;
-    max-width: 25%;
     padding: 0 4px;
+
+    @include media-breakpoint-up(lg) {
+        flex: 25%;
+        max-width: 25%;
+        padding: 0 4px;
+    }
   }
   
   .live-vids__column iframe {
@@ -138,4 +142,12 @@
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
+  }
+
+  .instagram-media {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    margin-left: 3px;
+    margin-right: 3px;
   }

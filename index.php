@@ -276,7 +276,7 @@
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                <h5>Needs Content</h5>
+                <h5>Yes. Please contact me via email or phone if you'd like to learn more.</h5>
                 </div>
               </div>
             </div>
@@ -289,7 +289,7 @@
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                <h5>Needs Content</h5>
+                <h5>Yes. Please contact me via email or phone if you'd like to learn more.</h5>
                 </div>
               </div>
             </div>
@@ -302,7 +302,7 @@
               </h2>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                <h5>Needs Content</h5>
+                <h5>We specialize in Kitchen, Bathroom and floor tile installation and removal.</h5>
                 </div>
               </div>
             </div>

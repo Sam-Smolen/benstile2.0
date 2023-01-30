@@ -11222,7 +11222,7 @@ textarea.form-control-lg {
   max-height: 18.5rem;
   overflow: hidden;
   margin-bottom: 1.2rem;
-  border-top: 0.5rem solid #008164;
+  border-top: 1rem solid #008164;
 }
 .portfolio-box img {
   width: 100%;
@@ -11300,6 +11300,46 @@ textarea.form-control-lg {
     margin-top: 0;
     margin-bottom: 2rem;
   }
+}
+
+.live-vids__container {
+  background-color: white;
+}
+
+.live-vids__column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.live-vids__column iframe {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.live-vids__container h1 {
+  color: #198754;
+  margin-bottom: 5px;
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 3rem;
+}
+
+.live-vids__container h2 {
+  color: #198754;
+  margin: 15px;
+  text-align: center;
+  /* margin: 50px 0; */
+  font-size: 15px;
+}
+
+.live-vids__row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
 
 .get-started {

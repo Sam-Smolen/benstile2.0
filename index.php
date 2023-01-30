@@ -1,5 +1,5 @@
 <?php include 'includes/header.php';?>
-<div class="bg-image" 
+<div class="bg-image img-fluid" 
      style="background-image: url('images/newbgimg.jpg'); width: 100%;">
   <section id="home" class="intro-section">
     <div class="container">
@@ -346,31 +346,55 @@
         check out some of our latest projects!
       </p>
     </div>
-    <div id="carouselCaptions" class="carousel slide" data-bs-ride="carousel">
+    <div id="carouselCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
         <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 5"></button>
       </div>
       <div class="carouselCaptions__carousel-inner">
-        <div class="carousel-item active">
+        <div class="carousel-item active" data-bs-interval="2000">
           <img src="images/quinby.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h5 class="fw-bold">Filler image 1</h5>
             <p>Needs Content</p>
           </div>
         </div>
-        <div class="carousel-item">
+        <div class="carousel-item" data-bs-interval="2000">
           <img src="images/quinby4.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h5 class="fw-bold">Filler image 2</h5>
             <p>Needs Content</p>
           </div>
         </div>
-        <div class="carousel-item">
-          <img src="images/filler/filler3.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-item" data-bs-interval="2000">
+          <img src="images/v5.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h5 class="fw-bold">Filler image 3</h5>
+            <p>Needs Content</p>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+          <img src="images/v6.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5 class="fw-bold">Filler image 4</h5>
+            <p>Needs Content</p>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+          <img src="images/quinby9.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5 class="fw-bold">Filler image 5</h5>
+            <p>Needs Content</p>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+          <img src="images/v1.png" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5 class="fw-bold">Filler image 6</h5>
             <p>Needs Content</p>
           </div>
         </div>

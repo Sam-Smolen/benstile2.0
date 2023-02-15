@@ -45,7 +45,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow mt-0 pt-0">
-            <img src="images/portfolio/reed1.jpg" alt="reed1" title="custom tile design" class="img-fluid">
+            <img src="images/resize/quinby.jpg" alt="reed1" title="custom tile design" class="img-fluid">
             <div class="portfolio-info">
              <div class="caption">
               <h4>Reed 2022</h4>
@@ -53,11 +53,11 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
-            <img src="images/portfolio/reed2.jpg" alt="reed 2" title="custom tile design" class="img-fluid">
+            <img src="images/resize/quinby2.jpg" alt="reed 2" title="custom tile design" class="img-fluid">
             <div class="portfolio-info">
              <div class="caption">
               <h4>Reed 2022</h4>
@@ -65,11 +65,11 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
-            <img src="images/portfolio/reed3.jpg" alt="reed 3" title="custom tile design" class="img-fluid">
+            <img src="images/resize/quinby3.jpg" alt="reed 3" title="custom tile design" class="img-fluid">
             <div class="portfolio-info">
              <div class="caption">
               <h4>Reed 2022</h4>
@@ -77,7 +77,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -89,7 +89,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -101,11 +101,11 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
-            <img src="images/portfolio/johnson1.jpg" alt="johnson 1" title="custom tile design" class="img-fluid">
+            <img src="images/resize/v6.jpg" alt="johnson 1" title="custom tile design" class="img-fluid">
             <div class="portfolio-info">
              <div class="caption">
               <h4>Johnson 2022</h4>
@@ -113,11 +113,11 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
-            <img src="images/portfolio/johnson2.jpg" alt="johnson 2" title="custom tile design" class="img-fluid">
+            <img src="images/resize/v1.png" alt="johnson 2" title="custom tile design" class="img-fluid">
             <div class="portfolio-info">
             <div class="caption">
               <h4>Johnson 2022</h4>
@@ -125,7 +125,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -137,11 +137,11 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
-            <img src="images/portfolio/peterson.jpg" alt="peterson kitchen" title="custom kitchen design" class="img-fluid">
+            <img src="images/resize/v4.jpg" alt="peterson kitchen" title="custom kitchen design" class="img-fluid">
             <div class="portfolio-info">
              <div class="caption">
               <h4>Peterson 2022</h4>
@@ -149,7 +149,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
     </div>
   </div>

@@ -53,7 +53,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -65,7 +65,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -77,7 +77,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -89,7 +89,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -101,7 +101,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -113,7 +113,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -125,7 +125,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -137,7 +137,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -149,7 +149,7 @@
             </div>
           </div>
         </div>
-        <h5 class="gallery-caption">Hello</h5>
+        <h5 class="gallery-caption"></h5>
       </div> 
     </div>
   </div>

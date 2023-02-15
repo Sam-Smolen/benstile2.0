@@ -33,7 +33,7 @@
         
           <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
             <li><a class="dropdown-item" href="https://benstilenmore.com/index.php#services">Our services</a></li>
-            <li><a class="dropdown-item" href="https://benstilenmore.com/learnmoretile.php">Custom Floor/Tile installation & Removal</a></li>
+            <li><a class="dropdown-item" href="https://benstilenmore.com/learnmoretile.php">Custom Tile installation & Removal</a></li>
             <li><a class="dropdown-item" href="https://benstilenmore.com/learnmorebathroom.php">Custom Bathroom Work</a></li>
             <li><a class="dropdown-item" href="https://benstilenmore.com/learnmorekitchen.php">Custom Kitchen Work</a></li>
           </ul>

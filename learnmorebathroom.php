@@ -1,11 +1,11 @@
 <?php include 'includes/header.php';?>
   <!-- END  OF NAVBAR SECTION -->
 
-  <!-- START LEARN MORE SECTION-->
-  <section id="learn-more" class="learn-more">
+   <!-- START LEARN MORE SECTION-->
+   <section id="learn-more" class="learn-more">
   <div class="learn-about__section">
     <div class="learn-about__container">
-      <h1 class="learn__about--header text-start">Custom Bathroom design</h1>
+      <h1 class="learn__about--header text-start">Custom Bathroom Design</h1>
         <div class="learn-about__heading--line mb-5"></div>
         <div class="learn-about__content">
             <div class="learn-about__text text-start">
@@ -45,7 +45,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow mt-0 pt-0">
-            <img src="images/portfolio/reed1.jpg" alt="reed1" title="custom tile design" class="img-fluid">
+            <img src="images/bathroom.jpg" alt="reed1" title="custom tile design" class="img-fluid">
             <div class="portfolio-info">
              <div class="caption">
               <h4>Reed 2022</h4>
@@ -53,6 +53,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -64,6 +65,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -75,6 +77,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -86,6 +89,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -97,6 +101,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -108,6 +113,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -119,6 +125,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -130,6 +137,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
@@ -141,6 +149,7 @@
             </div>
           </div>
         </div>
+        <h5 class="gallery-caption">Hello</h5>
       </div> 
     </div>
   </div>

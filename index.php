@@ -70,7 +70,7 @@
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4 text-start">
       <div class="services__content">
         <div class="icon d-block fa-solid fa-ruler-combined"></div>
-        <h3 class="display-3--title mt-1">Custom Floor/Tile installation & Removal</h3>
+        <h3 class="display-3--title mt-1">Custom Tile installation & Removal</h3>
         <p class="lh-lg">
           Needs Content 
         </p>
@@ -84,7 +84,7 @@
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4 text-end">
       <div class="services__pic">
-        <img src="images/customtile.jpg" alt="custom tile work" class="img-fluid"> 
+        <img src="images/quinby2.jpg" alt="custom tile work" class="img-fluid"> 
       </div>
     </div>
   </div>

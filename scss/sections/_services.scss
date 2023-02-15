@@ -31,5 +31,7 @@
 
     &__pic {
         max-width: 100%;
+        border-top: 1rem solid $servicesgreen;
+        border-bottom: 1rem solid $servicesgreen;
     }
 }

@@ -11161,6 +11161,8 @@ textarea.form-control-lg {
 }
 .services__pic {
   max-width: 100%;
+  border-top: 1rem solid #008164;
+  border-bottom: 1rem solid #008164;
 }
 
 .testimonials {
@@ -11356,7 +11358,7 @@ textarea.form-control-lg {
 }
 
 .gallery-caption {
-  color: red;
+  color: black;
   margin: 0 auto;
   text-align: center;
   margin-bottom: 2rem;

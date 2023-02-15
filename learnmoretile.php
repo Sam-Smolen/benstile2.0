@@ -5,11 +5,11 @@
   <section id="learn-more" class="learn-more">
   <div class="learn-about__section">
     <div class="learn-about__container">
-      <h1 class="learn__about--header text-start">Custom Flooring | Tile Installation & Removal</h1>
+      <h1 class="learn__about--header text-start">Custom Tile Installation & Removal</h1>
         <div class="learn-about__heading--line mb-5"></div>
         <div class="learn-about__content">
             <div class="learn-about__text text-start">
-            <h2 class="display-5">Gallery | Custom Flooing | Tile Installation & Removal</h2>
+            <h2 class="display-5">Gallery | Tile Installation & Removal</h2>
             <p class="mt-3 pt-3"></p>
         </div>
         <button class="btn btn-primary text-white text-capitalize">

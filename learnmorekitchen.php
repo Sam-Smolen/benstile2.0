@@ -10,7 +10,7 @@
         <div class="learn-about__content">
             <div class="learn-about__text text-start">
             <h2 class="display-5">Gallery | Custom Kitchen Remodel design and installation</h2>
-            <p class="mt-3 pt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod suscipit tempora sunt corrupti quidem consectetur nam voluptatibus, assumenda excepturi, ducimus veritatis!</p>
+            <p class="mt-3 pt-3"></p>
         </div>
         <button class="btn btn-primary text-white text-capitalize">
           <a href="contact.php" class="text-white">Schedule an appointment</a>

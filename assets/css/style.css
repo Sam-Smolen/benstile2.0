@@ -11221,8 +11221,8 @@ textarea.form-control-lg {
   width: 100%;
   max-height: 18.5rem;
   overflow: hidden;
-  margin-bottom: 1.2rem;
   border-top: 1rem solid #008164;
+  border-bottom: 1rem solid #008164;
 }
 .portfolio-box img {
   width: 100%;
@@ -11353,6 +11353,13 @@ textarea.form-control-lg {
   width: 100%;
   margin-left: 3px;
   margin-right: 3px;
+}
+
+.gallery-caption {
+  color: red;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
 .get-started {

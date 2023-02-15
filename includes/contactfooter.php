@@ -12,7 +12,7 @@
           </svg>
         </div>
         <div class="contact-box__info">
-          <a href="" class="contact-box__info--title">+12068492789</a>
+          <a href="tel:+12068492789" class="contact-box__info--title">+12068492789</a>
           <p class="contact-box__info--subtitle">Mon-Fri 9am-5pm</p>
         </div>
       </div>

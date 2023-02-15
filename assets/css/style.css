@@ -10889,6 +10889,10 @@ textarea.form-control-lg {
   color: #212529;
 }
 
+.btn-warning a {
+  color: #212529;
+}
+
 .display-2 {
   margin-bottom: 1rem;
   text-transform: capitalize;

@@ -51,7 +51,7 @@
           <a class="nav-link" href="https://benstilenmore.com/index.php#contact">Contact</a>
         </li>
       </ul>
-      <button type="button" class="rounded-pill btn-rounded btn-sm">+1 2068492789
+      <button type="button" class="rounded-pill btn-rounded btn-sm"><a href="tel:+12068492789">+1 2068492789</a>
           <span>
               <i class="fas fa-phone-alt"></i>
           </span>

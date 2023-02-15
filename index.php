@@ -448,7 +448,7 @@
       <div class="col-12 col-lg-6 gradient shadow p-3">
         <div class="cta-info w-100">
          <h4 class="display-4">Contact Us</h4>
-         <p class="phone__num lh-lg mt-5">206-849-2789
+         <p class="phone__num lh-lg mt-5"><a href="tel:+12068492789">206-849-2789</a>
           <span>
             <i class="fas fa-phone-alt p-3"></i>
         </span>
@@ -474,11 +474,11 @@
       <div class="col-12 col-lg-6 bg-white shadow p-3">
       <div class="call__me--text w-100 pb-2">
         <h4 class="display-4 text-primary mb-5">Start your project today!</h4>
-        <p class="lh-lg text-primary">At bens tile and more we value our clients feedback. Please feel free to send us an email with any additional questions, comments or concerns or give us a call to start your bathroom and kitchen remodel today!</p>
+        <p class="lh-lg text-primary">At Bens Tile and More we value our clients feedback. Please feel free to send us an email with any additional questions, comments or concerns or give us a call to start your bathroom and kitchen remodel today!</p>
         <div class="contact__heading--line mb-5"></div>
         <div class="row">
           <container class="call-me__buttons">
-        <button type="button" class="btn btn-warning">+1 206-849-2789
+        <button type="button" class="btn btn-warning"><a href="tel:+12068492789">+1 206-849-2789</a>
           <span>
             <i class="fas fa-phone-alt"></i>
         </span>

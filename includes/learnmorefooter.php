@@ -72,8 +72,7 @@
   <div class="row text-center text-white">
   <div class="col-12">
     <div class="footer-bottom__copyright">
-      &COPY; Copyright 2022 - By Sam Smolen <a id="html-checker" href="#top" target="_blank">Check HTML</a> ~
-      <a id="css-checker" href="#" target="_blank">Check CSS</a>
+      &COPY; Copyright 2022 - Ben's Tile & More 
     </div>
   </div>
 </div>

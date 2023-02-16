@@ -23,7 +23,7 @@
       <h1 class="display-3 fw-bold text-capitalize">Get Started</h1>
       <div class="heading-line"></div>
       <p class="content-caption lh-lg">
-        Send me an email today to get started on your new home imporvment project! All emails are sent to <b>benstilenmore@gmail.com</b> and do my best to respond within 24 hours! 
+        Send us an email today to get started on your new home imporvment project! All emails are sent to <b>benstilenmore@gmail.com</b> and we will do our best to respond within 24 hours! 
       </p>
     </div>
     <!--START CTA CONTENT-->
@@ -60,7 +60,7 @@
         <form action="<?php echo basename($_SERVER['PHP_SELF']); ?>" method="post">
           <div class="col-lg-6 col-md-6 mb-3"><input type="text" required="required" placeholder="First Name" id="inputFirstName" class="shadow form-control form-control-lg"></div>
           <div class="col-lg-6 col-md-6 mb-3"><input type="text" required="required" placeholder="Last Name" id="inputLastName" class="shadow form-control form-control-lg"></div>
-          <div class="col-lg-12 mb-3"><input type="email" required="required" placeholder="Email address" id="inputEmail" class="shadow form-control form-control-lg"></div>
+          <div class="col-lg-12 mb-3"><input type="email" required="required" placeholder="Email Address" id="inputEmail" class="shadow form-control form-control-lg"></div>
           <div class="col-lg-12 mb-3"><textarea placeholder="Message" required="required" name="message" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
           </div>
           <div class="col-lg-6 col-md-6 mb-3 g-recaptcha" data-sitekey="<?=$siteKey;?>"></div>

@@ -6,9 +6,9 @@
       <div class="row align-items-center text-white">
         <div class="col-md-6 intros text-start">
           <h1 class="display-2">
-            <span class="display-2--intro">Welcome to Bens Tile & More!</span>
+            <span class="display-2--intro">Welcome to Ben's Tile & More!</span>
             <span class="span display-2--description lh-base">We'd love to hear from you!</span>
-            <span class="span display-2--text">Contact Us Now to Get an Estimate.</span>
+            <span class="span display-2--text">Contact us now to get an estimate.</span>
           </h1>
           <button type="button" class="rounded-pill btn-rounded btn-sm">
             <a href="https://benstilenmore.com/contact.php">Get in touch!</a>
@@ -28,7 +28,7 @@
   </section>
   <!-- END INTRO SECTION -->
  <!-- About section -->
- <div class="about__section">
+ <!--div class="about__section">
   <div class="about__container">
     <h1 class="display-3">About me</h1>
       <div class="about__heading-line mb-5"></div>
@@ -38,7 +38,7 @@
       </div>
       </div>
   </div>
- </div>
+ </div-->
  <div class="my__wave"><img src="images/wave.svg" alt="waves"></img></div>
 <!-- SERVICES -->
 <section id="services" class="services">
@@ -51,13 +51,13 @@
     <div class="row pt-2 pb-2 mt-0 mb-3">
       <div class="col-md-6 border-right">
         <div class="bg-white p-3">
-          <h2 class="fw-bold text-capitalize text-center">We offer custom tile installation & removal services for your next home improvement, bathroom or kitchen project!</h2>
+          <h2 class="fw-bold text-center">We offer custom tile installation & removal services for your next home improvement, bathroom or kitchen project!</h2>
         </div>
       </div>
       <div class="col-md-6">
         <div class="bg-white p-4 text-start">
           <p class="content-caption">
-            At Ben's tile and More color and style is something we take seriously. We offer proffessional tile installation services at an affordable price, and will help you find a style that best suits what you're looking for. 
+            At Ben's Tile & More color and style is something we take seriously. We offer professional tile installation services at an affordable price and will help you find a style that best suits what you're looking for. 
           </p>
         </div>
       </div>
@@ -72,7 +72,7 @@
         <div class="icon d-block fa-solid fa-ruler-combined"></div>
         <h3 class="display-3--title mt-1">Custom Tile installation & Removal</h3>
         <p class="lh-lg">
-          Needs Content 
+          <!-- add text here -->
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
           <a href="https://benstilenmore.com/learnmoretile.php">Learn More</a>
@@ -97,9 +97,9 @@
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
       <div class="services__content">
         <div class="icon d-block fa-solid fa-wrench"></div>
-        <h3 class="display-3--title mt-1">Custom Batroom Work</h3>
+        <h3 class="display-3--title mt-1">Custom Bathroom Work</h3>
         <p class="lh-lg">
-        Needs Content 
+        <!-- add text here --> 
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
           <a href="https://benstilenmore.com/learnmorebathroom.php">Learn More</a>
@@ -116,7 +116,7 @@
         <div class="icon d-block fa-solid fa-hammer"></div>
         <h3 class="display-3--title mt-1">Custom Kitchen Work</h3>
         <p class="lh-lg">
-        Needs Content
+        <!-- add text here -->
         </p>
         <button type="button" class="rounded-pill btn-rounded border-primary">
           <a href="https://benstilenmore.com/learnmorekitchen.php">Learn More</a>
@@ -151,7 +151,7 @@
     
         <div class="carousel-inner">
           <!-- CAROUSEL ITEM 1-->
-          <div class="carousel-item active">
+          <div class="carousel-item active" data-bs-interval="10000">
             <!--TESTIMONIALS CARD-->
             <div class="testimonials__card">
               <p class="lh-lg">
@@ -178,12 +178,12 @@
             </div>
           </div>
               <!-- CAROUSEL ITEM 2-->
-              <div class="carousel-item">
+              <div class="carousel-item" data-bs-interval="10000">
                 <!--TESTIMONIALS CARD-->
           <div class="testimonials__card">
             <p class="lh-lg">
               <i class="fas fa-quote-left"></i>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam quaerat sit eius natus provident facere, nostrum, voluptatum unde, assumenda ab amet.
+              Ben's Tile and More guided me with all the details of my kitchen backsplash project.  They helped me understand tile choices, layouts, style and color concepts.   The kitchen backspash is beautiful.  I am very pleased with the quality of their work. I highly recomend them for your tile project.
               <i class="fas fa-quote-right"></i>
               <div class="ratings">
                 <i class="fa-solid fa-star"></i>
@@ -200,36 +200,16 @@
           </div>
           <!--CLIENT NAME-->
           <div class="testimonials__name">
-            <h3>Possible Tesitimonial.</h3>
+            <h3>Veronica S.</h3>
             <p class="fw-light">Seattle Wa</p>
           </div>
         </div>
         <!-- CAROUSEL ITEM 3-->
-        <div class="carousel-item">
-          <!--TESTIMONIALS CARD-->
-          <div class="testimonials__card">
-            <p class="lh-lg">
-              <i class="fas fa-quote-left"></i>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam quaerat sit eius natus provident facere, nostrum, voluptatum unde, assumenda ab amet.
-              <i class="fas fa-quote-right"></i>
-              <div class="ratings">
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-              </div>
-            </p>
-          </div>
+        
           <!--CLIENT PICTURE-->
-          <div class="testimonials__picture">
-            <img src="images/profile.jpg" alt="profile picture" class="rounded-circle img-fluid">
-          </div>
+          
           <!--CLIENT NAME-->
-          <div class="testimonials__name">
-            <h3>Possible testimonial</h3>
-            <p class="fw-light">Everett Wa</p>
-          </div>
+          
         </div>
         </div>
         <div class="text-center">
@@ -248,7 +228,7 @@
     <div class="row text-center">
       <h3 class="display-3 text-uppercase">faq</h3>
       <div class="heading-line"></div>
-        <p class="lead">get knowledge beforehand</p>
+        <p class="lead">Frequently Asked Questions</p>
       </div>
       <!-- ACCORDIAN CONTENT -->
       <div class="row mt-5">
@@ -302,7 +282,7 @@
               </h2>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                <h5>We specialize in Kitchen, Bathroom and floor tile installation and removal.</h5>
+                <h5>We specialize in kitchen, bathroom and floor tile design and installation.</h5>
                 </div>
               </div>
             </div>
@@ -315,7 +295,7 @@
               </h2>
               <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                <h5>You can reach me for an estimate at +12068492789, or fill out a simple <a href="https://benstilenmore.com/contact.php">Contact Form</a> and I will reply as soon as I can. I also reply to messages on my socials! I'm on <a href ="https://www.facebook.com/benstilenmore?mibextid=LQQJ4d">Facebook</a>, and <a href="https://www.instagram.com/benstile.more/?igshid=MDM4ZDc5MmU%3D">Instagram</a>!</h5>
+                <h5>You can reach us to discuss your project and get an estimate at +12068492789, or fill out a simple <a href="https://benstilenmore.com/contact.php">Contact Form</a> and I will reply as soon as I can. I also reply to messages on my socials! I'm on <a href ="https://www.facebook.com/benstilenmore?mibextid=LQQJ4d">Facebook</a>, and <a href="https://www.instagram.com/benstile.more/?igshid=MDM4ZDc5MmU%3D">Instagram</a>!</h5>
                 </div>
               </div>
             </div>
@@ -328,7 +308,7 @@
               </h2>
               <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                <h5>Yes! you can check out examples of my past work i've done  on my Facebook Page -<a href ="https://www.facebook.com/benstilenmore?mibextid=LQQJ4d">Bens' Tile & More</a>, Or check out examples of my past work in my<a href="https://benstilenmore.com/contact.php"> Portfolio</a> here, Or on my Instagram <a href="https://www.instagram.com/benstile.more/?igshid=MDM4ZDc5MmU%3D">@benstile.more</a>.</h5>
+                <h5>Yes! you can check out examples of my past work i've done  on my Facebook Page -<a href ="https://www.facebook.com/benstilenmore?mibextid=LQQJ4d">Bens' Tile & More</a>, Or check out examples of my past work in my<a href="https://benstilenmore.com/index.php#portfolio"> Portfolio</a> here, Or on my Instagram <a href="https://www.instagram.com/benstile.more/?igshid=MDM4ZDc5MmU%3D">@benstile.more</a>.</h5>
                 </div>
               </div>
             </div>
@@ -484,7 +464,7 @@
         </span>
         </button>
         <button type="button" class="btn btn-danger">
-          <a href="contact.php">Send us a Message</a>
+          <a href="contact.php">Email Us!</a>
           <span>
             <i class="fa-solid fa-pencil"></i>
           </span>

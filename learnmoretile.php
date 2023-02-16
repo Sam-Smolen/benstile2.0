@@ -44,42 +44,6 @@
       <!-- START PORTFOLIO ITEMS -->
       <div class="row">
         <div class="col-lg-4 col-md-6">
-          <div class="portfolio-box shadow mt-0 pt-0">
-            <img src="images/portfolio/reed1.jpg" alt="reed1" title="custom tile design" class="img-fluid">
-            <div class="portfolio-info">
-             <div class="caption">
-              <h4>Reed 2022</h4>
-              <p>Custom tile design</p>
-            </div>
-          </div>
-        </div>
-        <h5 class="gallery-caption"></h5>
-      </div> 
-        <div class="col-lg-4 col-md-6">
-          <div class="portfolio-box shadow">
-            <img src="images/portfolio/reed2.jpg" alt="reed 2" title="custom tile design" class="img-fluid">
-            <div class="portfolio-info">
-             <div class="caption">
-              <h4>Reed 2022</h4>
-              <p>Custom tile design</p>
-            </div>
-          </div>
-        </div>
-        <h5 class="gallery-caption"></h5>
-      </div> 
-        <div class="col-lg-4 col-md-6">
-          <div class="portfolio-box shadow">
-            <img src="images/portfolio/reed3.jpg" alt="reed 3" title="custom tile design" class="img-fluid">
-            <div class="portfolio-info">
-             <div class="caption">
-              <h4>Reed 2022</h4>
-              <p>Custom tile design</p>
-            </div>
-          </div>
-        </div>
-        <h5 class="gallery-caption"></h5>
-      </div> 
-        <div class="col-lg-4 col-md-6">
           <div class="portfolio-box shadow">
             <img src="images/portfolio/breer1.jpeg" alt="breer1" title="custom kitchen design" class="img-fluid">
             <div class="portfolio-info">
